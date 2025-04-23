@@ -1,16 +1,22 @@
-# todolist
+# 📋 Flutter Todo App
 
-A new Flutter project.
+A clean and simple Todo app built with Flutter and Riverpod, demonstrating SOLID principles, theme switching, and local persistence.
 
-## Getting Started
+![screenshot_light](screenshots/todo_light.png)
+![screenshot_dark](screenshots/todo_dark.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📝 Add / delete / toggle todos
+- 📆 Set and sort by due dates
+- 📊 Stats page with charts
+- 🎨 Light / dark theme switching
+- 💾 Local storage using SharedPreferences
+- 💡 Clean architecture using SOLID principles
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Project Structure
+
